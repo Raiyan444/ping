@@ -1,0 +1,15 @@
+Enter a network address in CIDR format(ex.192.168.1.0/24): 10.129.105.0/28
+10.129.105.1 is Online
+10.129.105.2 is Offline
+10.129.105.3 is Offline
+10.129.105.4 is Offline
+10.129.105.5 is Offline
+10.129.105.6 is Offline
+10.129.105.7 is Offline
+10.129.105.8 is Offline
+10.129.105.9 is Offline
+10.129.105.10 is Online
+10.129.105.11 is Offline
+10.129.105.12 is Online
+10.129.105.13 is Offline
+10.129.105.14 is Offline
